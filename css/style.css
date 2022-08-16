@@ -23,7 +23,7 @@ h1{
     padding: 5px;
 }
 /* mobile last */
-@media (max-width){
+@media (max-width: 500px){
     .hola-mundo{
         background-color: brown;
     }
