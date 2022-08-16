@@ -25,6 +25,7 @@ h1{
 /* mobile last */
 @media (max-width: 500px){
     .hola-mundo{
-        background-color: brown;
+        background-color: black;
+        color: white;
     }
 }
