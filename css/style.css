@@ -8,7 +8,7 @@ h1{
     color: blue;
 }
 .hola-mundo{
-    background-color: bisque;
+    background-image: linear-gradient(to top, #db3939, #b47777);
     text-align: center;
     max-width: 650px;
     margin: 15px auto;
@@ -30,6 +30,9 @@ h1{
 }
 .flex-index img{
     padding: 5px;
+}
+.flex-index img:hover{
+    transform: rotateX(45deg);
 }
 /* mobile last */
 @media (max-width: 500px){
