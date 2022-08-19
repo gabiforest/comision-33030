@@ -32,7 +32,7 @@ h1{
     padding: 5px;
 }
 .flex-index img:hover{
-    transform: rotateX(45deg);
+    transform: rotatez(30deg);
 }
 /* mobile last */
 @media (max-width: 500px){
